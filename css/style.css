@@ -2,6 +2,9 @@ body {
   overflow-x: hidden;
   font-family: "Montserrat", sans-serif;
 }
+.back-color{
+  background-color: #242582;
+}
 .search-field {
   border: none;
   border-radius: 50px;
@@ -38,9 +41,10 @@ body {
 .single-product {
   padding: 10px;
   transition: 0.6s;
-  background-color: rgb(17, 200, 206);
+  background-color: #222629;
   margin:10px;
-  
+  height:600px;
+  color:azure;
 }
 .single-product:hover {
   box-shadow: 4px 4px 7px gray;
