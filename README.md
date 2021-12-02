@@ -1,4 +1,4 @@
-live link: assingment7-shaown29.netlify.app
+live link: https://assingment7-shaown29.netlify.app/
 
 
 .This is about an e-commerce site
